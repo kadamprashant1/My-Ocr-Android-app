@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "584726442516",
+    "project_id": "my-ocr-bf238",
+    "storage_bucket": "my-ocr-bf238.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:584726442516:android:b15f5cdd2f3db6a65d6d01",
+        "android_client_info": {
+          "package_name": "com.example.myocr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "584726442516-rgagnf9971nvt9ro8qbq0eed3raaq988.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAmlCt1oWMvrHQwwPtVgbaBLtnDiT-FK8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "584726442516-rgagnf9971nvt9ro8qbq0eed3raaq988.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
