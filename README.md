@@ -9,7 +9,7 @@ This andorid app is successfully capable to detect text by capturing image throu
 Android app using:-
  -  Android Studio
 
-   Google firebase mlkit version 18.0.0
+     Google firebase mlkit version 18.0.0
 - com.google.android.gms:play-services-mlkit-text-recognition:18.0.0
    Google Firebse core version 20.1.2
 -  com.google.firebase:firebase-core:20.1.2
