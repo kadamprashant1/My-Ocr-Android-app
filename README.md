@@ -13,11 +13,13 @@ Android app using:-
 - com.google.android.gms:play-services-mlkit-text-recognition:18.0.0
    Google Firebse core version 20.1.2
 -  com.google.firebase:firebase-core:20.1.2
-   
+-  
+   Screen Shot :- 
+        ![](Image%20file/Detect.jpg)
  
- Devloped by:-
-
-  @kadamprashant1  -Github Id
+ contributor by:-
+      Github id:-
+  1) @kadamprashant1
 
  Student of Government College Of Engineering, Aurangabad
 
