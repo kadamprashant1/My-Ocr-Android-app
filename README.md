@@ -5,6 +5,8 @@
 This andorid app is successfully capable to detect text by capturing image through camera.
 
  Coded with simply beutiful and handy design...!
+ 
+ Live Demo:= https://youtu.be/6k8cpUkKK4c
 
 Android app using:-
  -  Android Studio
