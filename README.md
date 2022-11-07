@@ -25,5 +25,9 @@ Android app using:-
   2) @VinodPatil07
   
  Student of Government College Of Engineering, Aurangabad
+ 
+ ## Please make sure to update tests as appropriate.
+  
+  This application is developed for education purpose only
 
 
